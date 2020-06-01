@@ -1,3 +1,3 @@
 var num = 26;
 
-var truth = "Hello Github Version Control.";
+var truth = "Hello Github version Control Fixed.";
