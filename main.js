@@ -1,2 +1,2 @@
 var num = 26
-var truth = "Hello Jervy Umandap."
+var truth = "Hello Github!."
